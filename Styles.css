@@ -21,7 +21,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 20px 15vw;
-    background-color: #1F2937;
+    background-color: #081534;
 }
 
 .HeaderLogo {
@@ -50,7 +50,7 @@ a {
     justify-content: space-around;
     gap: 30px;
     padding: 80px 15vw;
-    background-color: #1F2937;
+    background-color: #081534;
 }
 
 .HeroLeft {
@@ -71,9 +71,9 @@ h1 {
     width: 100px;
     padding: 5px 20px;
     color: white;
-    background-color: #3882F6;
+    background-color: #6f2da8;
     border-radius: 8px;
-    border-color: #3882F6;
+    border-color: #6f2da8;
     font-weight: 700;
 }
 
@@ -140,7 +140,7 @@ h2 {
     align-items: center;
     gap: 20px;
     padding: 80px 15vw;
-    background-color: #E5E7EB;
+    background-color: 	#d2b8e3;
 }
 
 .Quote {
@@ -166,7 +166,7 @@ h2 {
     display: flex;
     justify-content: space-between;
     border-radius: 8px;
-    background-color: #3882F6;
+    background-color: #894dbd;
     padding: 30px 5vw;
 }
 
@@ -190,6 +190,6 @@ h3 , .CTAtext {
     justify-content: center;
     align-items: center;
     color: white;
-    background-color: #1F2937;
+    background-color: #081534;
     padding: 30px;
 }
