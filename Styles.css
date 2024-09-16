@@ -181,3 +181,15 @@ h3 , .CTAtext {
 .CTABox > .signup {
     border-color: white;
 }
+
+/* Footer Section of the Website */
+
+.FooterSection {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #1F2937;
+    padding: 30px;
+}
